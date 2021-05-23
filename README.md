@@ -1,6 +1,6 @@
 ### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer. Content creator and community organizer.
+## I'm a software engineer. Content creator and project manager.
 
 I am a software engineer working at DanAlha Limited. A tech start-up developing enterprise applications
 using Angular, React and WordPress.
@@ -8,8 +8,8 @@ using Angular, React and WordPress.
 I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
-- 🔭 I launched [Blog4Developers](https://www.blog4dev.com/) as a way od documenting 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I Know how to initiate, plan, execute and close a project
+- 🌱 I’m a fast learner and good communicator
 - 👯 I’m looking for new opportunities and collaborating with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love working on side projects and watching cartoon movies
