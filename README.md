@@ -1,6 +1,10 @@
-### Hi there, I'm Alhassan Kiwamdeen. A software engineer, content creator and community organizer.
+### Hi there, I'm Alhassan Kiwamdeen.
 
 ## I'm a software engineer. Content creator and community organizer.
+
+I just launched my first course: I just launched my first course:
+I just launched my first course: I just launched my first course: I just launched my first course:
+
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
