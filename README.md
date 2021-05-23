@@ -19,3 +19,9 @@
 [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
 [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
 [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+
+- [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+- [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+- [How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
