@@ -14,4 +14,8 @@
 
 ### 📕 Latest Blog Posts
 
-[Go to the Support Web Site](https://blog4dev.com)
+[How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+[How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+[How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+[How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
+[How to start eCommerce store](https://www.blog4dev.com/astra-woocommerce/)
