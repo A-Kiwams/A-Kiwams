@@ -8,11 +8,11 @@ using Angular, React and WordPress.
 I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I launched [Blog4Developers](https://www.blog4dev.com/) as a way od documenting 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking for new opportunities and collaborating with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love working on side projects and watching cartoon movies
 
 ### Connect with me:
 
