@@ -14,5 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[Go to the Support Web Site](https://blog4dev.com)
