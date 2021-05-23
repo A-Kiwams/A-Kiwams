@@ -5,7 +5,7 @@
 I am a software engineer working at DanAlha Limited. A tech start-up developing enterprise applications
 using Angular, React and WordPress.
 
-I'm also a content creator. I share my knowledge on [my blog](https://www.blog4dev.com/)
+I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
