@@ -1,8 +1,8 @@
 ### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer. Content creator, project manager and podcast enthusias.
+## I'm a software engineer. Content creator, project manager and podcast enthusiast.
 
-I am a software engineer working at DanAlha Limited. A tech start-up developing enterprise applications
+I am a software engineer working at DanAlha Limited. A tech start-up developing enterprise application
 using Angular, React and WordPress.
 
 I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
