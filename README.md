@@ -1,4 +1,4 @@
-### Hi, I'm Alhassan Kiwamdeen.
+### Hi there'sr, I'm Alhassan Kiwamdeen.
 
 ## I'm a software engineer. Content creator, project manager and S.E.O enthusiast.
 
