@@ -8,7 +8,7 @@ using Angular, React and WordPress.
 I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
-- 🔭 I Know how to initiate, plan, execute and close a project
+- 🔭 I Know how to initiate, plan, execute and close a
 - 🌱 I’m a fast learner and good communicator
 - 👯 I’m looking for new opportunities and collaborating with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
