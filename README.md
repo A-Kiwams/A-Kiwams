@@ -14,14 +14,14 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love working on side projects and watching cartoon movies
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="blog4dev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.blog4dev.com/)
 [<img align="left" alt="blog4dev.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/akiwams)
 [<img align="left" alt="blog4dev.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alhassan-kiwamdeen-56a144102/)
 <br />
 
-### 📕 Latest Blog Post
+### 📕 Latest Blog Posts
 
 - [Manually migrate WordPress website](https://www.blog4dev.com/wordpress-migration/)
 - [WordPress with ImageEngine](https://www.blog4dev.com/getting-started-with-wordpress-and-imageengine/)
