@@ -21,7 +21,7 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 [<img align="left" alt="blog4dev.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alhassan-kiwamdeen-56a144102/)
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Post
 
 - [Manually migrate WordPress website](https://www.blog4dev.com/wordpress-migration/)
 - [WordPress with ImageEngine](https://www.blog4dev.com/getting-started-with-wordpress-and-imageengine/)
