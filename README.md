@@ -1,6 +1,6 @@
 ### Hi there, I'm Alhassan Kiwamdeen
 
-## I'm a software engineer. Content creator, project manager and S.E.O enthusiast.
+## I'm a software engineer and content creator.
 
 I am a software engineer working at DanAlha Limited. A tech start-up developing enterprise applications
 using Angular, React and WordPress.
