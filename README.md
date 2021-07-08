@@ -1,4 +1,4 @@
-### Hi there, I'm Alhassa Franklin Hachect
+### Hi there, I'm Alhassa
 
 ## I'm a software engineer and content creator.
 
