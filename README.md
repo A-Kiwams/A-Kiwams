@@ -1,4 +1,4 @@
-### Hi there, I'm Alhassan Kiwamdeen
+### Hi there, I'm Alhassa Franklin Hachect
 
 ## I'm a software engineer and content creator.
 
