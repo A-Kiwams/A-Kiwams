@@ -1,4 +1,4 @@
-### Hi there, I'm Alhassan Kiwamdeen Kulfaree.
+### Hi there, I'm Alhassan Kiwamdeen.
 
 ## I'm a software engineer and content creator.
 
