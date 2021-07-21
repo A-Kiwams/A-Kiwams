@@ -1,6 +1,6 @@
-### Hi there, I'm Alhassan Kulfaree Kiwamdeen.
+### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer and content creator.
+## I'm a software engineer, content creator and project manager.
 
 I am a software engineer at DanAlha Limited. A tech start-up developing enterprise applications 
 using Angular, React and WordPress.
