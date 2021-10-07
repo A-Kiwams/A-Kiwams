@@ -12,7 +12,7 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 - 🌱 I’m a fast learner and good communicator
 - 👯 I’m looking for new opportunities and collaborating with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love working on side projects and watching cartoon movies
+- ⚡ Fun fact: I love working on side projects and watching movies
 
 ### Connect with me:
 
