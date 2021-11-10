@@ -24,7 +24,7 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 ### 📕 Latest Blog Posts
 
 - [20 Remote Job Websites](https://www.blog4dev.com/remote-jobs/)
-- [Manually migrate WordPress website](https://www.blog4dev.com/wordpress-migration/)
+- [How to manually migrate WordPress website](https://www.blog4dev.com/wordpress-migration/)
 - [Ionic5 Firebase Communication](https://www.blog4dev.com/ionic-firebase-communication//)
 - [How to start ecommerce store](https://www.blog4dev.com/how-to-start-ecommerce-store/)
 - [How to start a developer blog](https://www.blog4dev.com/create-a-blog-with-wordpress/)         
