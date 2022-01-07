@@ -12,7 +12,7 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 - 🌱 I’m a good communicator and fast learner 
 - 👯 I’m looking for new opportunities and collaborating with other content creators
 - 🥅 2022 Goals: Organize developer community programs and contributing to open source projects
-- ⚡ Fun fact: I love working on side projects and watching sci fi movies
+- ⚡ Fun fact: Love working on side projects and watching sci fi movies
 
 ### Connect with me:
 
