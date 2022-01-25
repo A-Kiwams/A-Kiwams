@@ -11,7 +11,7 @@ I'm also a content creator. I share my knowledge on my blog [Blog4Developers](ht
 - 🔭 I Know how to initiate, plan, execute and close a project
 - 🌱 I’m a good communicator and fast learner 
 - 👯 I’m looking for new opportunities and collaborating with other content creators
-- 🥅 2022 Goals: Organize lot of developer community programs and contributing to open source projects
+- 🥅 2022 Goals: Organize more developer community programs and contributing to open source projects
 - ⚡ Fun fact: Love working on side projects and watching sci fi movies
 
 ### Connect with me:
