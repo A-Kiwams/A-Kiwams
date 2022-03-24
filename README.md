@@ -1,6 +1,6 @@
 ### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer, content developer and technical project manager.
+## I'm a software engineer, content writer and technical project manager.
 
 I am a software engineer at DanAlha Limited. A tech start-up developing enterprise applications 
 using Angular, React and WordPress.
