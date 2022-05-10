@@ -1,6 +1,6 @@
 ### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer. Technical content writer. Developer advocate
+## I'm a software engineer. Technical writer. Developer advocate
 
 I am a software engineer at DanAlha Limited. A tech start-up developing enterprise applications 
 using Angular, React and WordPress.
