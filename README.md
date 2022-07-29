@@ -1,14 +1,13 @@
 ### Hi there, I'm Alhassan Kiwamdeen.
 
-## I'm a software engineer. Technical writer. Developer advocate
+## I'm a software engineer. Technical writer. Developer advocate.
 
-I am a software engineer at DanAlha Limited. A tech start-up developing enterprise applications 
-using Angular, React and WordPress.
+I am a fullstack developer and engineering lead at DanAlha Limited.
 
 I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
-- 🔭 I Know how to initiate, plan, execute and close a project
+- 🔭 I'm a good communicator and a fast learner I Know how to initiate, plan, execute and close a project
 - 🌱 I’m a good communicator and fast learner 
 - 👯 I’m looking for new opportunities and collaborating with other content creators
 - 🥅 2022 Goals: Organize lot of developer community programs and contribute to open source projects
