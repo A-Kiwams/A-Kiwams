@@ -4,14 +4,14 @@
 
 I am a fullstack developer and engineering lead at DanAlha Limited.
 
-I'm also a content creator. I share curated my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
+I'm also a content creator. I share curated content on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
-- 🔭 I'm a good communicator and a fast learner
-- 🌱 Technical Project management is something I have excel in as engineering lead at DanAlha 
-- 👯 I’m looking for new opportunities and collaborating with other technical content creators
-- 🥅 2022 Goals: Organize lot of developer community programs and contribute to open source projects
-- ⚡ Fun fact: Love working on side-projects and watching sci fi movies
+- 🌱 Technical Project manager
+- 👯 Team lead and fullstack developer
+- 🔭 Good communicator and a fast learner
+- 🥅 2022 Goals: Seeking new opportunities and contributing to open source projects
+- ⚡ Fun fact: Love watching sci fi movies
 
 ### Connect with me:
 
