@@ -1,10 +1,10 @@
-### Hi there, I'm Alhassan Kiwamdeen.
+### Hi there, Alhassan Kiwamdeen is my name.
 
-## I'm a software engineer. Technical writer. Developer advocate.
+## A software engineer. Technical writer. Developer advocate.
 
 I am a fullstack developer and engineering lead at DanAlha Limited.
 
-I'm also a content creator. I share my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
+I'm also a content creator. I share curated my knowledge on my blog [Blog4Developers](https://www.blog4dev.com/)
 
 
 - 🔭 I'm a good communicator and a fast learner
