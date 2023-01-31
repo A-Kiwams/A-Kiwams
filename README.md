@@ -10,8 +10,8 @@ I'm also a content creator. I share curated articles on my blogs: [Blog4Develope
 - 🌱 Technical Project manager
 - 👯 Team lead and fullstack developer
 - 🔭 Good communicator and a fast learner
-- 🥅 2022 Goals: Seeking new opportunities and contributing to open source projects
-- ⚡ Fun fact: Love watching sci fi movies
+- 🥅 2023 Goals: Seeking new opportunities and contributing to open source projects
+- ⚡ Fun fact: Love travelling and watching sci fi movies
 
 ### Connect with me:
 
