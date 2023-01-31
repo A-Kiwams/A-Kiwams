@@ -22,10 +22,8 @@ I'm also a content creator. I share curated articles on my blogs: [Blog4Develope
 
 ### 📕 Latest Blog Posts
 
-- [20 Remote Job Websites](https://www.blog4dev.com/remote-jobs/)
-- [How to manually migrate WordPress website](https://www.blog4dev.com/wordpress-migration/)
-- [Ionic5 Firebase Communication](https://www.blog4dev.com/ionic-firebase-communication//)
-- [How to start ecommerce store](https://www.blog4dev.com/how-to-start-ecommerce-store/)
-- [How to start a developer blog](https://www.blog4dev.com/create-a-blog-with-wordpress/)         
+- [20 project ideas for practice](https://www.blog4dev.com/developer-projects/)
+- [Prevent API attacks](https://justrestapi.com/how-to-prevent-api-attacks/)
+- [How to write good API docummentation](https://justrestapi.com/how-to-write-good-api-documentation/)         
 
-[more blog posts...](https://www.blog4dev.com/)
+[more blog posts...](https://www.blog4dev.com/) | (https://justrestapi.com/)
