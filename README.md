@@ -26,4 +26,4 @@ I'm also a content creator. I share curated articles on my blogs: [Blog4Develope
 - [Prevent API attacks](https://justrestapi.com/how-to-prevent-api-attacks/)
 - [How to write good API docummentation](https://justrestapi.com/how-to-write-good-api-documentation/)         
 
-[more blog posts...](https://www.blog4dev.com/) | (https://justrestapi.com/)
+Read more from my blogs: [Blog4Developers](https://www.blog4dev.com/) and [Just-Rest-APIs](https://justrestapi.com/)
