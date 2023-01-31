@@ -4,7 +4,7 @@
 
 I am a fullstack developer and engineering lead at DanAlha Limited.
 
-I'm also a content creator. I share curated articles on my blog [Blog4Developers](https://www.blog4dev.com/)
+I'm also a content creator. I share curated articles on my blogs: [Blog4Developers](https://www.blog4dev.com/) and [Just-Rest-APIs](https://justrestapi.com/)
 
 
 - 🌱 Technical Project manager
