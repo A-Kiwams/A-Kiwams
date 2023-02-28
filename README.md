@@ -11,7 +11,7 @@ I'm also a content creator. I share curated articles on my blogs: [Blog4Develope
 - 👯 Team lead and fullstack developer
 - 🔭 Good communicator and a fast learner
 - 🥅 2023 Goals: Seeking new opportunities and contributing to open source projects
-- ⚡ Fun fact: Love travelling and watching sci fi movies
+- ⚡ Fun fact: Love travelling. Watching sci fi movies
 
 ### Connect with me:
 
