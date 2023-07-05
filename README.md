@@ -2,16 +2,16 @@
 
 ## A software engineer. Technical writer. Developer advocate.
 
-I am a fullstack developer and engineering lead at DanAlha Limited.
+I am a full-stack developer and engineering lead at DanAlha Limited.
 
-As a content creator, I share opinionated and technical articles on my blogs: [Blog4Developers](https://www.blog4dev.com/) and [Just-Rest-APIs](https://justrestapi.com/)
+As a content creator, I share opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
 
 
 - 🌱 Technical Project manager
-- 👯 Team lead and fullstack developer
+- 👯 Team lead and full-stack developer
 - 🔭 Good communicator and a fast learner
-- 🥅 2023 Goals: Seeking new opportunities and contributing to open source projects
-- ⚡ Fun fact: Love travelling. Watching sci fi movies
+- 🥅 2023 Goals: Seeking new opportunities and contributing to open-source projects
+- ⚡ Fun fact: Love traveling. Watching sci-fi movies
 
 ### Connect with me:
 
@@ -24,6 +24,6 @@ As a content creator, I share opinionated and technical articles on my blogs: [B
 
 - [20 project ideas for practice](https://www.blog4dev.com/developer-projects/)
 - [Prevent API attacks](https://justrestapi.com/how-to-prevent-api-attacks/)
-- [How to write good API docummentation](https://justrestapi.com/how-to-write-good-api-documentation/)         
+- [How to write good API documentation](https://justrestapi.com/how-to-write-good-api-documentation/)         
 
 Read more from my blogs: [Blog4Developers](https://www.blog4dev.com/) and [Just-Rest-APIs](https://justrestapi.com/)
