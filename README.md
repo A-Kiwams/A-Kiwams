@@ -22,8 +22,9 @@ As a content creator, I share opinionated and technical articles on my blog: [Bl
 
 ### 📕 Latest Blog Posts
 
-- [20 project ideas for practice](https://www.blog4dev.com/developer-projects/)
-- [Prevent API attacks](https://justrestapi.com/how-to-prevent-api-attacks/)
-- [How to write good API documentation](https://justrestapi.com/how-to-write-good-api-documentation/)         
+- [Tips for remote workers ](https://www.blog4dev.com/tips-for-remote-workers/)
+- [Mastering object-oriented programming](https://www.blog4dev.com/mastering-object-oriented-programming/)
+- [Best practices for writing clean code](https://www.blog4dev.com/best-practices-for-writing-clean-and-readable-code/)
+- [20 project ideas for practice](https://www.blog4dev.com/developer-projects/)   
 
-Read more from my blogs: [Blog4Developers](https://www.blog4dev.com/) and [Just-Rest-APIs](https://justrestapi.com/)
+
