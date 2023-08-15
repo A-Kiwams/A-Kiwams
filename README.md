@@ -2,10 +2,9 @@
 
 ## A software engineer. Technical writer. Developer advocate.
 
-I am a full-stack developer and engineering lead at DanAlha Limited.
+I am a full-stack developer. Currently seeking new opportunities.
 
 As a content creator, I share opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
-
 
 - 🌱 Technical Project manager
 - 👯 Team lead and full-stack developer
