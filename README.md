@@ -10,7 +10,7 @@ As a content creator, I share opinionated and technical articles on my blog: [Bl
 - 👯 Team lead and full-stack developer
 - 🔭 Good communicator and a fast learner
 - 🥅 2024 Goals: Seeking new opportunities and contributing to open-source projects
-- ⚡ Fun fact: I love traveling. Watching sci-fi movies
+- ⚡ Fun fact: Traveling. Watching sci-fi movies
 
 ### Connect with me:
 
