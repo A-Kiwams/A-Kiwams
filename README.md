@@ -2,9 +2,9 @@
 
 ## Software engineer. Cloud developer. JavaScript and APIs enthusiast.
 
-I am a full-stack developer. I am currently seeking new opportunities.
+I am a full-stack JavaScript engineer. Currently seeking new opportunities.
 
-As a content creator, I share opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
+Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/) is a hobby.
 
 - 🌱 Technical Project manager
 - 👯 Team lead and full-stack developer
