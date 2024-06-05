@@ -1,6 +1,6 @@
 ### Hi there, Alhassan Kiwamdeen is my name.
 
-## Software engineer. Cloud developer. JavaScript and APIs enthusiast.
+## Software engineer. Cloud developer. APIs enthusiast.
 
 I am a full-stack JavaScript engineer. Currently seeking new opportunities.
 
