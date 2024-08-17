@@ -4,7 +4,7 @@
 
 I am a full-stack JavaScript engineer. Currently seeking new opportunities.
 
-Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/) is a hobby.
+Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
 
 - 🌱 Technical Project manager
 - 👯 Team lead and full-stack developer
