@@ -2,7 +2,7 @@
 
 ## Software engineer. Cloud developer. APIs enthusiast.
 
-I am a full-stack JavaScript engineer. Currently seeking new opportunities.
+I am a full-stack JavaScript engineer.
 
 Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
 
