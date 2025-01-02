@@ -1,16 +1,14 @@
-### Hi there, Alhassan Kiwamdeen is my name.
+### Alhassan Kiwamdeen is my name.
 
-## Software engineer. Cloud developer. APIs enthusiast.
-
-I am a full-stack JavaScript engineer.
+## Software engineer. Cloud developer. Web3 enthusiast.
 
 Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
 
-- 🌱 Technical Project manager
-- 👯 Team lead and full-stack developer
-- 🔭 Good communicator and a fast learner
-- 🥅 2024 Goals: Seeking new opportunities and contributing to open-source projects
-- ⚡ Fun fact: Traveling. Watching sci-fi movies
+- 🌱 Technical Project manager.
+- 👯 Team lead and full-stack developer.
+- 🔭 Good communicator and a fast learner.
+- 🥅 2025 Goals: Seeking new opportunities. Contributing more to open-source projects.
+- ⚡ Fun fact: Traveling. Watching sci-fi movies.
 
 ### Connect with me:
 
