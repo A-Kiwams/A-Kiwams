@@ -1,4 +1,4 @@
-### Alhassan Kiwamdeen is my name.
+### Alhassan Kiwamdeen.
 
 ## Software engineer. Cloud developer. Web3 enthusiast.
 
