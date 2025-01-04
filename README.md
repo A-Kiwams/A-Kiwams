@@ -1,6 +1,6 @@
 ### Alhassan Kiwamdeen.
 
-## Software engineer. Cloud developer. Web3 enthusiast.
+## Software engineer. Web3 enthusiast.
 
 Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
 
