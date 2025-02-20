@@ -1,9 +1,6 @@
 ### Alhassan Kiwamdeen.
 
 ## Software engineer. Web3 enthusiast.
-
-Sharing opinionated and technical articles on my blog: [Blog4Developers](https://www.blog4dev.com/)
-
 - 🌱 Technical Project manager.
 - 👯 Team lead and full-stack developer.
 - 🔭 Good communicator and a fast learner.
